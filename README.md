@@ -1,2 +1,2 @@
 # xdmod-dev-scripts
-Developer tools for XDMoD
+Various eveloper tools for XDMoD that I find useful
